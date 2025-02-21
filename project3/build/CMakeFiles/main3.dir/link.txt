@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/main3.dir/src/main.cpp.o CMakeFiles/main3.dir/src/test1.cpp.o CMakeFiles/main3.dir/src/test2.cpp.o  -o ../bin/main3 

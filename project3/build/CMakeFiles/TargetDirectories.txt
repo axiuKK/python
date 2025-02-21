@@ -1,0 +1,3 @@
+/home/thy/test/cmake_learn/project3/build/CMakeFiles/rebuild_cache.dir
+/home/thy/test/cmake_learn/project3/build/CMakeFiles/edit_cache.dir
+/home/thy/test/cmake_learn/project3/build/CMakeFiles/main3.dir
